@@ -1,1 +1,4 @@
-This is the starting point of git workflow 
+This is the starting point of git workflow
+Second line
+Third line
+ 
